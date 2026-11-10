@@ -17,4 +17,4 @@ Imports Automobilista 2 tracks and cars straight from the game’s .bff archives
 [Studio397 Forum](https://forum.studio-397.com/index.php?threads/blender-plugins-from-me.73647/)
 
 ## Blender Extensions
-[Blender Extensions](https://extensions.blender.org/add-ons/f1c-mts-importer/)
+[Blender Extensions](https://extensions.blender.org/approval-queue/ams2-importer/)
